@@ -299,4 +299,4 @@ For custom development, enterprise licensing, or support inquiries:
 
 **Email:** business@pandasdroid.com
 
-**GitHub:** [github.com/pandasdroid/clouddeck](https://github.com/pandasdroid/clouddeck)
+**GitHub:** [github.com/pandasdroid/clouddeck](https://github.com/pandasdroid/vps-management)
