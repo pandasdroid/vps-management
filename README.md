@@ -289,7 +289,7 @@ VS Code settings on remote servers:
 
 ## License
 
-Copyright © 2024 Pandasdroid Pvt Ltd. All rights reserved.
+Copyright © 2025 Pandasdroid Pvt Ltd. All rights reserved.
 
 ---
 
